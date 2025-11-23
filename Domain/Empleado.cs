@@ -12,6 +12,6 @@ public class Empleado
     public string Posicion { get; set; } = string.Empty;
     public bool Activo { get; set; } = true;
 
-    // Inicializado para evitar null reference al compilar con Nullable enabled
+
     public List<RegistroFichaje> Fichajes { get; set; } = new();
 }

@@ -11,7 +11,7 @@ public class TempoDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
-        // Crea la DB en el directorio actual del proyecto
+        
         var dbPath = Path.Combine(Directory.GetCurrentDirectory(), "TempoControl.db");
         options.UseSqlite($"Data Source={dbPath}");
     }

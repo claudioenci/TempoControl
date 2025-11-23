@@ -49,3 +49,4 @@ C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net8.0\refint\
 C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net8.0\TempoControl.pdb
 C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net8.0\TempoControl.genruntimeconfig.cache
 C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net8.0\ref\TempoControl.dll
+C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net8.0\TempoControl.sourcelink.json
