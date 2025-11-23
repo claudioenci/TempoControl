@@ -1,0 +1,4 @@
+C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\Miguel\OneDrive\Escritorio\TempoControl\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
